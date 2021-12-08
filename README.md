@@ -4,6 +4,7 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=glongrais&show_icons=true&hide=issues&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/glongrais)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glongrais&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/glongrais)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=glongrais)](https://github.com/glongrais)
 <!--
 **glongrais/glongrais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
