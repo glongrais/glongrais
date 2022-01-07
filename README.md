@@ -14,6 +14,8 @@
 
 ### Data Engineering 📊
 ### IOS 📱
+
+* [Stock and Portfolio Tracking App](https://github.com/glongrais/StockTracker) 💶💹
 <!--
 **glongrais/glongrais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
