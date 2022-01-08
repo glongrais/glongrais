@@ -19,6 +19,12 @@
 ### IOS 📱
 
 * [Stock and Portfolio Tracking App](https://github.com/glongrais/StockTracker) 💶💹
+
+### BackEnd ☁️
+
+* [Asynchronous Shopping App with RabbitMQ](https://github.com/glongrais/Messenger_RabbitMQ) 🛒🛍
+* [CREATE/READ/UPDATE/DELETE Photo Management API with OpenAPI 3](https://github.com/glongrais/OpenAPI_Photo_Management) 🌄🕸
+
 <!--
 **glongrais/glongrais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
