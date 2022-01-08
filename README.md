@@ -13,6 +13,9 @@
 * [Human Activities Classification from Time Series Sensors](https://github.com/glongrais/Time_Series_Classification) 🏃‍♂️📈
 
 ### Data Engineering 📊
+
+* [Distributed Video Game Recommender with Google BigQuery Pipeline](https://github.com/glongrais/Recommender_Blacknut) 🎮👨‍👩‍👧‍👦
+
 ### IOS 📱
 
 * [Stock and Portfolio Tracking App](https://github.com/glongrais/StockTracker) 💶💹
