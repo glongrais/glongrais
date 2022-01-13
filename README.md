@@ -32,7 +32,7 @@
 
 ### Other 🔭
 
-* [Dynamic visualisition of portfolio's interest](https://github.com/glongrais/Portfolio_Interest_Visualisation) 💶📈
+* [Dynamic Visualisition of Portfolio's Interest](https://github.com/glongrais/Portfolio_Interest_Visualisation) 💶📈
 
 <!--
 **glongrais/glongrais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
