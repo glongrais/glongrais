@@ -14,26 +14,30 @@
 
 ### Machine Learning 💻
 
-* [Human Activities Classification from Time Series Sensors](https://github.com/glongrais/Time_Series_Classification) 🏃‍♂️📈
+* [Human Activities Classification from Time Series Sensors](https://github.com/glongrais/Time_Series_Classification)
 
 ### Data Engineering 📊
 
-* [Distributed Video Game Recommender with Google BigQuery Pipeline](https://github.com/glongrais/Recommender_Blacknut) 🎮👨‍👩‍👧‍👦
-* [Graph Partitioning using the Ja-Be-Ja Algorithm](https://github.com/glongrais/Data_Mining_Grah_Partioning) ፨🖥
-* [Finding Similar Items using Apache Spark](https://github.com/glongrais/Data_Mining_Similar_Items) ✨⩬
+* [Distributed Video Game Recommender with Google BigQuery Pipeline](https://github.com/glongrais/Recommender_Blacknut)
+* [Graph Partitioning using the Ja-Be-Ja Algorithm](https://github.com/glongrais/Data_Mining_Grah_Partioning)
+* [Finding Similar Items using Apache Spark](https://github.com/glongrais/Data_Mining_Similar_Items)
+
+### Parallel Programming 🖥
+
+* [Implementation of a CUDA version for a simple Game of Life](https://github.com/glongrais/Parallel_GPU_TP6)
 
 ### IOS 📱
 
-* [Stock and Portfolio Tracking App](https://github.com/glongrais/StockTracker) 💶💹
+* [Stock and Portfolio Tracking App](https://github.com/glongrais/StockTracker)
 
 ### BackEnd ☁️
 
-* [Asynchronous Shopping App with RabbitMQ](https://github.com/glongrais/Messenger_RabbitMQ) 🛒🛍
-* [CREATE/READ/UPDATE/DELETE Photo Management API with OpenAPI 3](https://github.com/glongrais/OpenAPI_Photo_Management) 🌄🕸
+* [Asynchronous Shopping App with RabbitMQ](https://github.com/glongrais/Messenger_RabbitMQ)
+* [CREATE/READ/UPDATE/DELETE Photo Management API with OpenAPI 3](https://github.com/glongrais/OpenAPI_Photo_Management)
 
 ### Other 🔭
 
-* [Dynamic Visualisition of Portfolio's Interest](https://github.com/glongrais/Portfolio_Interest_Visualisation) 💶📈
+* [Dynamic Visualisition of Portfolio's Interest](https://github.com/glongrais/Portfolio_Interest_Visualisation)
 
 <!--
 **glongrais/glongrais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
