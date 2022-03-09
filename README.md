@@ -38,6 +38,7 @@
 ### Other 🔭
 
 * [Dynamic Visualisition of Portfolio's Interest](https://github.com/glongrais/Portfolio_Interest_Visualisation)
+* [Sankey Diagram form Apple Numbers files](https://github.com/glongrais/Sankey_Visualisation)
 
 <!--
 **glongrais/glongrais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
