@@ -21,6 +21,7 @@
 * [Distributed Video Game Recommender with Google BigQuery Pipeline](https://github.com/glongrais/Recommender_Blacknut)
 * [Graph Partitioning using the Ja-Be-Ja Algorithm](https://github.com/glongrais/Data_Mining_Grah_Partioning)
 * [Finding Similar Items using Apache Spark](https://github.com/glongrais/Data_Mining_Similar_Items)
+* [Finding Frequent Items using Apache Spark](https://github.com/glongrais/Data_Mining_Frequent_Item)
 
 ### Parallel Programming 🖥
 
