@@ -38,6 +38,7 @@
 
 ### Other 🔭
 
+* [Kattis Problems](https://github.com/glongrais/Kattis_Problems)
 * [Dynamic Visualisition of Portfolio's Interest](https://github.com/glongrais/Portfolio_Interest_Visualisation)
 * [Sankey Diagram form Apple Numbers files](https://github.com/glongrais/Sankey_Visualisation)
 
