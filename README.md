@@ -27,11 +27,12 @@
 
 * [Implementation of a CUDA version for a simple Game of Life](https://github.com/glongrais/Parallel_GPU_TP6)
 
-### IOS 📱
+### IOS/Swift 📱
 
+* [Netatmo Weather App for Mac](https://github.com/glongrais/Netatmo-Weather-App)
 * [Stock and Portfolio Tracking App](https://github.com/glongrais/StockTracker)
 
-### BackEnd ☁️
+### Backend ☁️
 
 * [Asynchronous Shopping App with RabbitMQ](https://github.com/glongrais/Messenger_RabbitMQ)
 * [CREATE/READ/UPDATE/DELETE Photo Management API with OpenAPI 3](https://github.com/glongrais/OpenAPI_Photo_Management)
