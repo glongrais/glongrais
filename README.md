@@ -10,6 +10,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glongrais&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/glongrais)
 -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=glongrais&show_icons=true&locale=en&layout=compact" alt="glongrais" /></p>
 ## My Projects
 
 ### Machine Learning 💻
