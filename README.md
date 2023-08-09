@@ -2,6 +2,11 @@
   <h1> Hi there ! I'm Guillaume 👋👨‍💻 </h1>
 </div>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=glongrais&style=flat-square&color=blue" alt=""/>
+</div>
+
+
 <!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=glongrais&show_icons=true&hide=issues&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/glongrais)
 
